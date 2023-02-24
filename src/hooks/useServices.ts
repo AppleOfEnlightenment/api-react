@@ -1,4 +1,4 @@
-import { ServiceName } from '@chia-network/api';
+import { ServiceName } from '@AppleOfEnlightenment/api';
 
 import useService, { ServiceState } from './useService';
 
